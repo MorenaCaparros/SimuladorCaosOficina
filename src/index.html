@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🏢 Simulador de Caos en la Oficina</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div id="start-screen" class="screen">
+        <h1>🏢 Simulador de Caos en la Oficina</h1>
+        <p>¿Podrás sobrevivir un día más en la oficina?</p>
+        <button id="start-button" class="btn">¡Sobrevivir un día más!</button>
+    </div>
+
+    <div id="character-selection" class="screen hidden">
+        <h2>Elige tu personaje</h2>
+        <div id="character-container"></div>
+        <button id="start-game-button" class="btn" disabled>Empezar Juego</button>
+    </div>
+
+    <div id="game-screen" class="screen hidden">
+        <div class="game-container">
+            <div class="question-counter">
+                <span id="current-question">1</span> / <span id="total-questions">5</span>
+            </div>
+            <h2 id="question-text"></h2>
+            <div id="answer-options"></div>
+            <div id="score-display">Puntos de caos: <span id="chaos-score">0</span></div>
+        </div>
+    </div>
+
+    <div id="results-screen" class="screen hidden">
+        <div class="results-container">
+            <h2>🎯 Resultados Finales</h2>
+            <div id="final-result"></div>
+            <button id="restart-button" class="btn">Jugar de Nuevo</button>
+            <button id="share-button" class="btn">Compartir Resultado</button>
+        </div>
+    </div>
+
+    <script src="js/utils.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+{
+  "characters": [
+    {
+      "name": "La multitasking quemada",
+      "description": "Hace todo, pero ya no siente nada.",
+      "emoji": "🧘‍♀️"
+    },
+    {
+      "name": "El que renunció en silencio",
+      "description": "Está en cuerpo presente, mente ausente.",
+      "emoji": "😵"
+    },
+    {
+      "name": "La entusiasta que aún cree",
+      "description": "Todavía piensa que todo puede mejorar.",
+      "emoji": "🌟"
+    }
+  ]
+}

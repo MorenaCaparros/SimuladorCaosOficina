@@ -1,0 +1,174 @@
+{
+  "questions": [
+    {
+      "question": "Estás en una reunión que ya lleva 42 minutos. No hay agenda, nadie habla claro y todos tienen cara de Zoom eterno.",
+      "options": [
+        {
+          "answer": "Asentís sin entender nada, y mientras tanto te ponés a jugar al Candy Crush",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Interrumpís y preguntás si ya estamos cerrando, porque tenés 'otra call'",
+          "chaosPoints": 0
+        },
+        {
+          "answer": "Mutás el micrófono, apagás la cámara y te preparás un café con calma",
+          "chaosPoints": 2
+        }
+      ]
+    },
+    {
+      "question": "El archivo compartido se llama 'FINAL_version_definitiva_NOtocar_v3' y tiene más pestañas que un supermercado.",
+      "options": [
+        {
+          "answer": "Lo cerrás y lo volvés a abrir esperando que mágicamente se arregle",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Le cambiás el nombre a 'ARCHIVO-FINAL-NO-NO-EN-SERIO-FINAL' y seguís como si nada",
+          "chaosPoints": 2
+        },
+        {
+          "answer": "Preguntás cuál es la correcta, aunque sabés que nadie va a responder",
+          "chaosPoints": 0
+        }
+      ]
+    },
+    {
+      "question": "Justo cuando te toca hablar, tu conexión se cae y reaparecés congelado con cara rara.",
+      "options": [
+        {
+          "answer": "Mandás al grupo: 'me caí 😅' y usás la excusa para no volver a hablar",
+          "chaosPoints": 0
+        },
+        {
+          "answer": "Te reconectás 7 veces solo para seguir mirando la reunión en silencio",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Aprovechás el corte, agarrás los auriculares y salís a caminar",
+          "chaosPoints": 2
+        }
+      ]
+    },
+    {
+      "question": "Te llega un correo de alguien que no conocés, con asunto 'Te toca a vos', sin texto, sin firma.",
+      "options": [
+        {
+          "answer": "Lo ignorás y confiás en que nadie más te lo recuerde",
+          "chaosPoints": 2
+        },
+        {
+          "answer": "Lo reenviás con '¿era para mí?' y te preparás para que te claven igual",
+          "chaosPoints": 0
+        },
+        {
+          "answer": "Respondés con un sticker de perrito confundido y después lo silenciás",
+          "chaosPoints": 1
+        }
+      ]
+    },
+    {
+      "question": "Cada vez que te movés, tu silla hace un ruido como si se estuviera despidiendo.",
+      "options": [
+        {
+          "answer": "Le ponés una caja abajo y te convencés de que está más firme",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Pedís una nueva y te llega una reposera con el logo de la empresa",
+          "chaosPoints": 2
+        },
+        {
+          "answer": "Aceptás tu destino. Te volvés uno con la silla y sufre tu espalda",
+          "chaosPoints": 0
+        }
+      ]
+    },
+    {
+      "question": "Lunes, 8:00 AM. No tomaste café. Suena el teléfono. Es tu jefe.",
+      "options": [
+        {
+          "answer": "Atendés y decís: 'Hola, ¿delivery?' por reflejo",
+          "chaosPoints": 2
+        },
+        {
+          "answer": "Lo dejás sonar. Después escribís '¿Me llamaste?' con delay emocional",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Respondés por Slack con un emoji neutral y fingís que nunca viste nada",
+          "chaosPoints": 0
+        }
+      ]
+    },
+    {
+      "question": "La impresora escupe documentos viejos sola. Nadie la usa, pero sigue viva.",
+      "options": [
+        {
+          "answer": "Le pegás un post-it que dice 'NO FUNCIONA' y te alejás lentamente",
+          "chaosPoints": 2
+        },
+        {
+          "answer": "La desenchufás y rezás a San IT",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Llamás a sistemas y te reís con resignación cuando te dicen 'probá apagarla y prenderla'",
+          "chaosPoints": 0
+        }
+      ]
+    },
+    {
+      "question": "Te piden que 'automatices un Excel que se imprime y se llena a mano'.",
+      "options": [
+        {
+          "answer": "Preguntás si es en serio o parte de un experimento social",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Lo hacés igual, te estresás y jurás que es la última vez",
+          "chaosPoints": 2
+        },
+        {
+          "answer": "Diseñás una plantilla con dibujitos y convencés a todos de que era tu idea",
+          "chaosPoints": 0
+        }
+      ]
+    },
+    {
+      "question": "El grupo de WhatsApp del equipo se llama 'Equipo 💛💪 2024' y no se escribe desde enero.",
+      "options": [
+        {
+          "answer": "Mandás un sticker pasivo-agresivo tipo 'Hola gente hermosa 😘'",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Cambiás el nombre a 'Fantasmas corporativos' y esperás que alguien reaccione",
+          "chaosPoints": 2
+        },
+        {
+          "answer": "Silenciás el grupo por un año y seguís con tu vida",
+          "chaosPoints": 0
+        }
+      ]
+    },
+    {
+      "question": "Te piden un informe 'corto, pero completo, que tenga todo pero no sea largo'.",
+      "options": [
+        {
+          "answer": "Copiás uno viejo, cambiás las fechas y lo reenviás con fe",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Lo hacés con ChatGPT y solo chequeás que tenga tu nombre",
+          "chaosPoints": 0
+        },
+        {
+          "answer": "Lo hacés perfecto. Lo subís. Nadie lo abre. Te deprimís",
+          "chaosPoints": 2
+        }
+      ]
+    }
+  ]
+}
