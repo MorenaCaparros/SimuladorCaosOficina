@@ -1,0 +1,489 @@
+{
+  "characterQuestions": {
+    "multitasking": {
+      "easy": [
+        {
+          "question": "Tienes 5 tareas pendientes y te llega una más 'urgente'. Como multitasking quemada...",
+          "options": [
+            {
+              "answer": "La agregás a la lista infinita y suspirás profundamente",
+              "chaosPoints": 0
+            },
+            {
+              "answer": "Hacés todas al mismo tiempo, mal pero rápido",
+              "chaosPoints": 1
+            },
+            {
+              "answer": "Te quedás inmóvil 5 minutos procesando la sobrecarga",
+              "chaosPoints": 2
+            }
+          ]
+        },
+        {
+          "question": "Tu jefe te pregunta por el estado de 3 proyectos diferentes en 30 segundos...",
+          "options": [
+            {
+              "answer": "Respondés con datos exactos porque siempre tenés todo controlado",
+              "chaosPoints": 0
+            },
+            {
+              "answer": "Improvisás porcentajes que suenan creíbles",
+              "chaosPoints": 1
+            },
+            {
+              "answer": "Decís 'está todo en proceso' y cambiás de tema",
+              "chaosPoints": 2
+            }
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "question": "Estás en 3 llamadas simultáneas cuando te escriben por WhatsApp, Slack y email. Tu nivel de caos multitasking dice:",
+          "options": [
+            {
+              "answer": "Organizás todo por prioridad aunque te duela la cabeza",
+              "chaosPoints": 0
+            },
+            {
+              "answer": "Respondés con emojis en todo y esperás que funcione",
+              "chaosPoints": 1
+            },
+            {
+              "answer": "Apagas todo y te vas a llorar al baño",
+              "chaosPoints": 2
+            }
+          ]
+        },
+        {
+          "question": "Son las 7 PM, tu familia pregunta cuándo llegás y tu computadora tiene 47 pestañas abiertas...",
+          "options": [
+            {
+              "answer": "Cierras las pestañas metódicamente y te vas",
+              "chaosPoints": 0
+            },
+            {
+              "answer": "Guardás todo 'para mañana' sabiendo que será un caos",
+              "chaosPoints": 1
+            },
+            {
+              "answer": "Dejas todo abierto y rezás porque no se apague la PC",
+              "chaosPoints": 2
+            }
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "question": "CRISIS TOTAL: El sistema está caído, hay 5 reuniones esperándote, tu jefe grita, y acabás de tirar café en el teclado. Tu alma multitasking colapsa:",
+          "options": [
+            {
+              "answer": "Hacés una lista mental y atacás todo sistemáticamente",
+              "chaosPoints": 0
+            },
+            {
+              "answer": "Corrés de un lado a otro sin terminar nada",
+              "chaosPoints": 1
+            },
+            {
+              "answer": "Te sentás en el piso y contemplás el vacío existencial",
+              "chaosPoints": 2
+            }
+          ]
+        }
+      ]
+    },
+    "resignado": {
+      "easy": [
+        {
+          "question": "Te asignan un proyecto que sabes que va a fracasar. Como resignado silencioso...",
+          "options": [
+            {
+              "answer": "Lo hacés igual pero documentás todo para cubrirte",
+              "chaosPoints": 0
+            },
+            {
+              "answer": "Hacés el mínimo esfuerzo posible",
+              "chaosPoints": 1
+            },
+            {
+              "answer": "Ni siquiera abrís el email, total ya sabés el final",
+              "chaosPoints": 2
+            }
+          ]
+        },
+        {
+          "question": "Tu jefe anuncia 'cambios emocionantes' por enésima vez este año...",
+          "options": [
+            {
+              "answer": "Asentís educadamente mientras pensás en el almuerzo",
+              "chaosPoints": 0
+            },
+            {
+              "answer": "Ponés cara de interés pero tu alma está en Netflix",
+              "chaosPoints": 1
+            },
+            {
+              "answer": "Ni siquiera fingís que te importa",
+              "chaosPoints": 2
+            }
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "question": "Cancelan por tercera vez el proyecto en el que trabajaste 6 meses. Tu resignación dice:",
+          "options": [
+            {
+              "answer": "Guardás todo ordenado 'por si acaso' lo retoman",
+              "chaosPoints": 0
+            },
+            {
+              "answer": "Borrás todo con una sonrisa triste",
+              "chaosPoints": 1
+            },
+            {
+              "answer": "Dejás todo como está, que se encargue el próximo",
+              "chaosPoints": 2
+            }
+          ]
+        },
+        {
+          "question": "Te piden que capacites a tu reemplazo que cobra el doble que vos...",
+          "options": [
+            {
+              "answer": "Lo hacés profesionalmente aunque por dentro ardes",
+              "chaosPoints": 0
+            },
+            {
+              "answer": "Le das información básica y que se las arregle",
+              "chaosPoints": 1
+            },
+            {
+              "answer": "Le decís que aprenda mirando como hiciste vos",
+              "chaosPoints": 2
+            }
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "question": "REVELACIÓN CÓSMICA: Descubrís que todo tu trabajo del último año era innecesario porque había una solución automática. Tu resignación alcanza nivel zen:",
+          "options": [
+            {
+              "answer": "Te reís con amargura pero seguís adelante",
+              "chaosPoints": 0
+            },
+            {
+              "answer": "Implementás la solución automática sin contarle a nadie",
+              "chaosPoints": 1
+            },
+            {
+              "answer": "Seguís haciendo todo manual porque ya nada importa",
+              "chaosPoints": 2
+            }
+          ]
+        }
+      ]
+    },
+    "entusiasta": {
+      "easy": [
+        {
+          "question": "Es lunes por la mañana y tu energía entusiasta está al máximo...",
+          "options": [
+            {
+              "answer": "Llegás temprano con ideas nuevas para mejorar todo",
+              "chaosPoints": 0
+            },
+            {
+              "answer": "Mandás buenos días con stickers motivacionales",
+              "chaosPoints": 1
+            },
+            {
+              "answer": "Proponés un brainstorming para optimizar el brainstorming",
+              "chaosPoints": 2
+            }
+          ]
+        },
+        {
+          "question": "Encontrás un error en un proceso que nadie más notó...",
+          "options": [
+            {
+              "answer": "Lo reportás adecuadamente con soluciones propuestas",
+              "chaosPoints": 0
+            },
+            {
+              "answer": "Hacés una presentación de 20 slides sobre cómo mejorar todo",
+              "chaosPoints": 1
+            },
+            {
+              "answer": "Organizás una reunión de emergencia para revolucionar el sistema",
+              "chaosPoints": 2
+            }
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "question": "Tus colegas ponen cara de cansancio cuando aparecés con otra 'idea genial'...",
+          "options": [
+            {
+              "answer": "Ajustás tu enfoque y presentás ideas más realistas",
+              "chaosPoints": 0
+            },
+            {
+              "answer": "Seguís igual pero agregás más colorinches a tus presentaciones",
+              "chaosPoints": 1
+            },
+            {
+              "answer": "Duplicás tu entusiasmo para contagiarlos de energía positiva",
+              "chaosPoints": 2
+            }
+          ]
+        },
+        {
+          "question": "El quinto proyecto que propusiste es rechazado. Tu entusiasmo dice:",
+          "options": [
+            {
+              "answer": "Analizás el feedback y preparás una mejor propuesta",
+              "chaosPoints": 0
+            },
+            {
+              "answer": "Empezás el sexto proyecto con más ganas todavía",
+              "chaosPoints": 1
+            },
+            {
+              "answer": "Proponés crear un comité para evaluar por qué rechazan tus ideas",
+              "chaosPoints": 2
+            }
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "question": "MOMENTO DE VERDAD: Después de 6 meses, te das cuenta que tu optimismo molesta a todos y que tus ideas nunca se implementan. Tu entusiasmo en crisis máxima:",
+          "options": [
+            {
+              "answer": "Reflexionás y buscás un equilibrio más realista",
+              "chaosPoints": 0
+            },
+            {
+              "answer": "Decidís que necesitan más tiempo para entender tu visión",
+              "chaosPoints": 1
+            },
+            {
+              "answer": "Organizás un retiro corporativo para alinear energías",
+              "chaosPoints": 2
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "generalQuestions": [
+    {
+      "question": "Estás en una reunión que ya lleva 42 minutos. No hay agenda, nadie habla claro y todos tienen cara de Zoom eterno.",
+      "options": [
+        {
+          "answer": "Asentís sin entender nada, y mientras tanto te ponés a jugar al Candy Crush",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Interrumpís y preguntás si ya estamos cerrando, porque tenés 'otra call'",
+          "chaosPoints": 0
+        },
+        {
+          "answer": "Mutás el micrófono, apagás la cámara y te preparás un café con calma",
+          "chaosPoints": 2
+        }
+      ]
+    },
+    {
+      "question": "El archivo compartido se llama 'FINAL_version_definitiva_NOtocar_v3' y tiene más pestañas que un supermercado.",
+      "options": [
+        {
+          "answer": "Lo cerrás y lo volvés a abrir esperando que mágicamente se arregle",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Le cambiás el nombre a 'ARCHIVO-FINAL-NO-NO-EN-SERIO-FINAL' y seguís como si nada",
+          "chaosPoints": 2
+        },
+        {
+          "answer": "Preguntás cuál es la correcta, aunque sabés que nadie va a responder",
+          "chaosPoints": 0
+        }
+      ]
+    },
+    {
+      "question": "Justo cuando te toca hablar, tu conexión se cae y reaparecés congelado con cara rara.",
+      "options": [
+        {
+          "answer": "Mandás al grupo: 'me caí 😅' y usás la excusa para no volver a hablar",
+          "chaosPoints": 0
+        },
+        {
+          "answer": "Te reconectás 7 veces solo para seguir mirando la reunión en silencio",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Aprovechás el corte, agarrás los auriculares y salís a caminar",
+          "chaosPoints": 2
+        }
+      ]
+    },
+    {
+      "question": "Te llega un correo de alguien que no conocés, con asunto 'Te toca a vos', sin texto, sin firma.",
+      "options": [
+        {
+          "answer": "Lo ignorás y confiás en que nadie más te lo recuerde",
+          "chaosPoints": 2
+        },
+        {
+          "answer": "Lo reenviás con '¿era para mí?' y te preparás para que te claven igual",
+          "chaosPoints": 0
+        },
+        {
+          "answer": "Respondés con un sticker de perrito confundido y después lo silenciás",
+          "chaosPoints": 1
+        }
+      ]
+    },
+    {
+      "question": "Cada vez que te movés, tu silla hace un ruido como si se estuviera despidiendo.",
+      "options": [
+        {
+          "answer": "Le ponés una caja abajo y te convencés de que está más firme",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Pedís una nueva y te llega una reposera con el logo de la empresa",
+          "chaosPoints": 2
+        },
+        {
+          "answer": "Aceptás tu destino. Te volvés uno con la silla y sufre tu espalda",
+          "chaosPoints": 0
+        }
+      ]
+    },
+    {
+      "question": "Lunes, 8:00 AM. No tomaste café. Suena el teléfono. Es tu jefe.",
+      "options": [
+        {
+          "answer": "Atendés y decís: 'Hola, ¿delivery?' por reflejo",
+          "chaosPoints": 2
+        },
+        {
+          "answer": "Lo dejás sonar. Después escribís '¿Me llamaste?' con delay emocional",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Respondés por Slack con un emoji neutral y fingís que nunca viste nada",
+          "chaosPoints": 0
+        }
+      ]
+    },
+    {
+      "question": "La impresora escupe documentos viejos sola. Nadie la usa, pero sigue viva.",
+      "options": [
+        {
+          "answer": "Le pegás un post-it que dice 'NO FUNCIONA' y te alejás lentamente",
+          "chaosPoints": 2
+        },
+        {
+          "answer": "La desenchufás y rezás a San IT",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Llamás a sistemas y te reís con resignación cuando te dicen 'probá apagarla y prenderla'",
+          "chaosPoints": 0
+        }
+      ]
+    },
+    {
+      "question": "Te piden que 'automatices un Excel que se imprime y se llena a mano'.",
+      "options": [
+        {
+          "answer": "Preguntás si es en serio o parte de un experimento social",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Lo hacés igual, te estresás y jurás que es la última vez",
+          "chaosPoints": 2
+        },
+        {
+          "answer": "Diseñás una plantilla con dibujitos y convencés a todos de que era tu idea",
+          "chaosPoints": 0
+        }
+      ]
+    },
+    {
+      "question": "El grupo de WhatsApp del equipo se llama 'Equipo 💛💪 2024' y no se escribe desde enero.",
+      "options": [
+        {
+          "answer": "Mandás un sticker pasivo-agresivo tipo 'Hola gente hermosa 😘'",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Cambiás el nombre a 'Fantasmas corporativos' y esperás que alguien reaccione",
+          "chaosPoints": 2
+        },
+        {
+          "answer": "Silenciás el grupo por un año y seguís con tu vida",
+          "chaosPoints": 0
+        }
+      ]
+    },
+    {
+      "question": "Te piden un informe 'corto, pero completo, que tenga todo pero no sea largo'.",
+      "options": [
+        {
+          "answer": "Copiás uno viejo, cambiás las fechas y lo reenviás con fe",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Lo hacés con ChatGPT y solo chequeás que tenga tu nombre",
+          "chaosPoints": 0
+        },
+        {
+          "answer": "Lo hacés perfecto. Lo subís. Nadie lo abre. Te deprimís",
+          "chaosPoints": 2
+        }
+      ]
+    },
+    {
+      "question": "El archivo compartido se llama 'FINAL_version_definitiva_NOtocar_v3' y tiene más pestañas que un supermercado.",
+      "options": [
+        {
+          "answer": "Lo cerrás y lo volvés a abrir esperando que mágicamente se arregle",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Le cambiás el nombre a 'ARCHIVO-FINAL-NO-NO-EN-SERIO-FINAL' y seguís como si nada",
+          "chaosPoints": 2
+        },
+        {
+          "answer": "Preguntás cuál es la correcta, aunque sabés que nadie va a responder",
+          "chaosPoints": 0
+        }
+      ]
+    },
+    {
+      "question": "Justo cuando te toca hablar, tu conexión se cae y reaparecés congelado con cara rara.",
+      "options": [
+        {
+          "answer": "Mandás al grupo: 'me caí 😅' y usás la excusa para no volver a hablar",
+          "chaosPoints": 0
+        },
+        {
+          "answer": "Te reconectás 7 veces solo para seguir mirando la reunión en silencio",
+          "chaosPoints": 1
+        },
+        {
+          "answer": "Aprovechás el corte, agarrás los auriculares y salís a caminar",
+          "chaosPoints": 2
+        }
+      ]
+    }
+  ]
+}
